@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.view.alwaysShowHeaderActions": true,
+		"workbench.editor.highlightModifiedTabs": true,
+		"workbench.settings.openDefaultKeybindings": true,
+		"window.autoDetectColorScheme": true,
+		"todo-tree.general.enableFileWatcher": true,
+		"todo-tree.tree.expanded": true
+	}
+}
